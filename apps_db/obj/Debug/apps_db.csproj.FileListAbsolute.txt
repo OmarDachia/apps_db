@@ -1,0 +1,9 @@
+c:\users\udachias\documents\visual studio 2012\Projects\apps_db\apps_db\bin\Debug\apps_db.exe.config
+C:\Users\udachias\documents\visual studio 2012\Projects\apps_db\apps_db\bin\Debug\apps_db.exe
+C:\Users\udachias\documents\visual studio 2012\Projects\apps_db\apps_db\bin\Debug\apps_db.pdb
+C:\Users\udachias\documents\visual studio 2012\Projects\apps_db\apps_db\obj\Debug\apps_db.csprojResolveAssemblyReference.cache
+C:\Users\udachias\documents\visual studio 2012\Projects\apps_db\apps_db\obj\Debug\apps_db.Form1.resources
+C:\Users\udachias\documents\visual studio 2012\Projects\apps_db\apps_db\obj\Debug\apps_db.Properties.Resources.resources
+C:\Users\udachias\documents\visual studio 2012\Projects\apps_db\apps_db\obj\Debug\apps_db.csproj.GenerateResource.Cache
+C:\Users\udachias\documents\visual studio 2012\Projects\apps_db\apps_db\obj\Debug\apps_db.exe
+C:\Users\udachias\documents\visual studio 2012\Projects\apps_db\apps_db\obj\Debug\apps_db.pdb
